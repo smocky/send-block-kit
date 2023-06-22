@@ -1,0 +1,13 @@
+{
+  "apps": {
+    "acme-demo-2577": {
+      "name": "acme-demo-2577",
+      "app_id": "A05DUR6EWNP",
+      "enterprise_id": "E03PA63NREC",
+      "team_id": "T042XGXKGTA",
+      "IsDev": false,
+      "InstallStatus": 0
+    }
+  },
+  "default": "acme-demo-2577"
+}
